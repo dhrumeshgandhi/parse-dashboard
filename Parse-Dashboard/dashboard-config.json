@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://parsedc.azurewebsites.net/parse",
+      "appId": "app123",
+      "masterKey": "master123",
+      "appName": "DC Parse"
+    }
+  ]
+}
